@@ -5,13 +5,19 @@ description: A forkable blog-ready Jekyll site using Asciidoc
 documentationExpanded: false
 postsExpanded: false
 ---
-
-= Congratulations!
 :toc:
 :toc-placement: preamble
 
+= Congratulations!
 
 You've successfully set up and deployed an Jekyll website powered by Asciidoc using the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[*Asciidoc-Jekyll-Quickstart*] project.  If everything is in order then changes to the Asciidoc content will be automatically published to your `gh_pages` branch and hosted via Jekyll and Github.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 == What do I do now?
 
