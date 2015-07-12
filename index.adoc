@@ -7,6 +7,9 @@ postsExpanded: false
 ---
 
 = Congratulations!
+:toc:
+:toc-placement: preamble
+
 
 You've successfully set up and deployed an Jekyll website powered by Asciidoc using the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[*Asciidoc-Jekyll-Quickstart*] project.  If everything is in order then changes to the Asciidoc content will be automatically published to your `gh_pages` branch and hosted via Jekyll and Github.
 
